@@ -31,6 +31,8 @@ $ pip install -e .     # install template as editable package
 $ streamlit run my_component/example.py  # run the example
 ```
 * If all goes well, you should see something like this:
+
 ![Quickstart Success](quickstart.png)
+
 * Modify the frontend code at `my_component/frontend/src/MyComponent.vue`.
 * Modify the Python code at `my_component/__init__.py`.
