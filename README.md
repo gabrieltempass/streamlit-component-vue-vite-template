@@ -25,9 +25,10 @@ $ npm run dev    # Start the Vite dev server
 ```
 $ cd streamlit-component-vue-vite-template
 $ . venv/bin/activate  # activate the venv you created earlier
+$ pip install -e .     # install template as editable package
 $ streamlit run my_component/example.py  # run the example
 ```
 * If all goes well, you should see something like this:
 ![Quickstart Success](quickstart.png)
-* Modify the frontend code at `my_component/frontend/src/MyComponent.tsx`.
+* Modify the frontend code at `my_component/frontend/src/MyComponent.vue`.
 * Modify the Python code at `my_component/__init__.py`.
