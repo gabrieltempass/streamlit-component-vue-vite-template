@@ -11,9 +11,9 @@ For complete information, please see the [Streamlit Components documentation](ht
 * Create a new Python virtual environment for the template:
 ```
 $ cd streamlit-component-vue-vite-template
-$ python3 -m venv venv  # create venv
-$ . venv/bin/activate   # activate venv
-$ pip install streamlit # install streamlit
+$ python3 -m venv venv   # create venv
+$ . venv/bin/activate    # activate venv
+$ pip install streamlit  # install streamlit
 ```
 * Initialize and run the component template frontend:
 ```

@@ -1,4 +1,5 @@
 import streamlit as st
+
 from my_component import my_component
 
 # Add some test code to play with the component while it's in development.
