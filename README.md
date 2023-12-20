@@ -1,4 +1,6 @@
-# Streamlit Vue Vite Templates
+# Streamlit Component Vue Vite Template
+
+A template for creating Streamlit Components. It uses Vue 3 to code the frontend and Vite to serve the files locally during development, as well as bundle and compile them for production.
 
 This repo contains templates and example code for creating [Streamlit](https://streamlit.io) Components.
 
